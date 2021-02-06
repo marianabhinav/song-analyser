@@ -1,0 +1,19 @@
+# Data Manipulation
+
+numpy
+pandas
+
+# Audio Analysis
+
+librosa
+
+# Machine Learning Library
+
+scikit-learn
+
+# FAST API and HTML rendering
+
+fastapi
+uvicorn[standard]
+aiofiles
+jinja2

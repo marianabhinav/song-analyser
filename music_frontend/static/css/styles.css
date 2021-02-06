@@ -1,0 +1,43 @@
+#header{
+    background-color: rgb(58 125 193 / 35%);
+    padding: 0.5% 0% 0.5% 0%;
+}
+#sidepanel{
+    position: absolute;
+    width: 20%;
+    background: rgb(58 125 193 / 35%);
+    height: 85vh;
+    border-radius: 10px;
+    margin: 0.5%;
+  }
+#kneigh{
+    padding: 2% 10% 0% 10%;
+}
+#radioButtons{
+    padding: 0% 10% 0% 10%;
+}
+#metaDataDropdown{
+    display: none;
+    padding: 2% 10% 10% 10%;
+}
+#songDropdown{
+    padding: 2% 10% 10% 10%;
+}
+#songDropdown .bootstrap-select .dropdown-menu{
+    width: 100% !important;
+    min-height: fit-content !important; 
+    height: 65vh !important;
+}
+#scatterplot{
+    position: absolute;
+    height: 85vh;
+    width: 78vw;
+    display: flex;
+    left: 21%;
+    margin: 0.5%;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+#bttnDiv{
+    padding: 2% 10% 0% 30%;
+}
