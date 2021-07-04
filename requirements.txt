@@ -1,19 +1,19 @@
 # Data Manipulation
 
-numpy
-pandas
+numpy==1.20.0
+pandas==1.2.1
 
 # Audio Analysis
 
-librosa
+librosa==0.8.0
 
 # Machine Learning Library
 
-scikit-learn
+scikit-learn==0.24.1
 
 # FAST API and HTML rendering
 
-fastapi
-uvicorn[standard]
-aiofiles
-jinja2
+fastapi==0.65.2
+uvicorn[standard]==0.13.3
+aiofiles==0.6.0
+jinja2==2.11.3
