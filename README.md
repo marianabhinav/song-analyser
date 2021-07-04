@@ -1,4 +1,6 @@
-# MMR Assignment 9 Web Application
+# Mutimedia Retrieval Song Matcher
+
+This application takes a set of predefined songs and match a song with other songs using low level features of a song.
 
 ## Instructions to run
 
@@ -13,3 +15,7 @@ Run the setup.py file to start the server and web hosting
 ```bash
 python setup.py
 ```
+
+## Web Application
+
+https://fma-small-dataset-song-matcher.herokuapp.com/
