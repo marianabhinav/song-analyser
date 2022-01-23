@@ -13,7 +13,7 @@ pip install -r requirements.txt
 Run the setup.py file to start the server and web hosting
 
 ```bash
-python setup.py
+python main.py
 ```
 
 ## Web Application
